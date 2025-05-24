@@ -3,7 +3,7 @@
     partial class FrmRegister
     {
         /// <summary>
-        /// Variable del diseñador necesaria.
+        /// Variable del diseñador necesario.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
